@@ -20,8 +20,10 @@ My name is Alfonso and I am a PhD candidate at the University of Iowa and an inc
 My primary research interests include:
 - Generalized latent variable modeling
 - Bayesian analysis
-- Computational statistics 
-and my secondary research interest (meaning most of my work in these areas are through informal channels) include:
+- Computational statistics
+  
+and my secondary research interests include:
+
 - Data visualization
 - Statistics education and pedagogy
 - Open science
