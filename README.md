@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Alfonso and I am a PhD candidate at the University of Iowa and an incoming Assistant Professor of Psychometrics and Quantitative Psychology at Fordham University. 
+My name is Alfonso and I am an Assistant Professor of Psychometrics and Quantitative Psychology at Fordham University. 
 
 My primary research interests include:
-- Generalized latent variable modeling
-- Bayesian analysis
-- Computational statistics
-  
-and my secondary research interests include:
+- Generalized latent variable and psychometric modeling
+- Bayesian inference, modeling, and prediction
+- Mixture modeling
+- Estimation theory for psychometric and generalized latent variable models
+- Computational statistics as applied the psychological, behavioral, and social sciences
 
-- Data visualization
-- Statistics education and pedagogy
-- Open science
-    
-For more information about me and what I do, check out my website at www.ajmquant.com.
+For more information about me and what I do, check out my website at www.theprismlab.ajmquant.com.
